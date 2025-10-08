@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-\n\"\"\"\n3D渒糼器\n\nAuthor: 1sjh68\nVersion: 1.0.0\nDate: 2025-10-09\n\"\"\"\n\nimport pygame\nimport PyOpenGL.GL as gl\nimport PyOpenGL.GLU as glu\nimport numpy as np\nimport math\nfrom typing import Tuple, Dict, AerAction
