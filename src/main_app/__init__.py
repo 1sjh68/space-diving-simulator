@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-\n\"\"\"\n主梡次纤的内胕凚配这理也\n\n\"\"\"\n\n__version__ = '1.0.0'\n__author__ = '1sjh68'\n__email__ = ''\n"\"\"\n\"from src.main_app.app import SpaceDivingApp\n\n__all__ = ['SpaceDivingApp']
